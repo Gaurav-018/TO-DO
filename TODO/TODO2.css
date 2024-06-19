@@ -1,0 +1,77 @@
+body{
+    background-image: url("https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/6010813f5ce191dc4701ea9b_6002086f72b72724ad01dec6_flexbox-and-css-grid.jpeg");
+    background-size: auto;
+    border: 5px solid rgb(24, 15, 4);
+    text-align: center;
+    align-content: center;
+    font-weight: bold;
+    
+}
+
+button{
+    background-color: red;
+    text-decoration: solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.Add{
+    background-color: rgb(20, 210, 99);
+
+}
+
+
+
+.h1{
+    background-color: rgba(196, 134, 10, 0.471);
+    border:solid rgb(9, 12, 167) ;
+    border-width: 3px;
+    margin-top: 5px;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+.days{
+    place-items: center;
+}
+
+.table{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+table, th, td {
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+tr{
+    border: 2px solid chocolate;
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+}
+
+.hello{
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.Time{
+    font-size: large;
+    
+}
